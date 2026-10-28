@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "kr.jibeuro.preview",
+  "versionName": "0.6.3",
+  "versionCode": 50,
+  "apkUrl": "https://ldjkorea.github.io/jibeuro-releases/apk/jibeuro-0.6.3-code50.apk",
+  "sha256": "a2f0656b33b425adf892d2026ce70e5cbe11a47634f124eb4325db2de6afd35f",
+  "bytes": 4538318,
+  "minSdk": 26,
+  "certificateSha256": "4ffa08c428984df7ee4035acd4c58ac4b2dffae5ba01875210d7ec5db90c0b65"
+}
