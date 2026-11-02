@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "kr.jibeuro.preview",
-  "versionName": "0.6.6",
-  "versionCode": 53,
-  "apkUrl": "https://ldjkorea.github.io/jibeuro-releases/apk/jibeuro-0.6.6-code53.apk",
-  "sha256": "3c741feb206e6cd2cfac16cb21dbb77bd7c2a1b697e8ac0990c2b0ee8675325f",
+  "versionName": "0.6.7",
+  "versionCode": 54,
+  "apkUrl": "https://ldjkorea.github.io/jibeuro-releases/apk/jibeuro-0.6.7-code54.apk",
+  "sha256": "0d3943e1f373f92260a528083e3f82acea97e42266d75db3f86d16f94895c53b",
   "bytes": 4550606,
   "minSdk": 26,
   "certificateSha256": "4ffa08c428984df7ee4035acd4c58ac4b2dffae5ba01875210d7ec5db90c0b65"
