@@ -1,3 +1,4 @@
 87ce9b953fd8476e0d09d4f2c8457a376543cea90fba4c92b2cba6f9b387d711  apk/jibeuro-0.6.1-code47.apk
 6589e3f8f39c991f83cfce56a25187c5ccefd7154281cee24862a839ed332944  apk/jibeuro-0.6.2-code49.apk
 a2f0656b33b425adf892d2026ce70e5cbe11a47634f124eb4325db2de6afd35f  apk/jibeuro-0.6.3-code50.apk
+3c741feb206e6cd2cfac16cb21dbb77bd7c2a1b697e8ac0990c2b0ee8675325f  apk/jibeuro-0.6.6-code53.apk
